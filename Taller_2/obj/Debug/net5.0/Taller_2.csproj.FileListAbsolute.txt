@@ -1,0 +1,16 @@
+C:\Users\jdavi\Documents\C#\Taller_2\bin\Debug\net5.0\Taller_2.exe
+C:\Users\jdavi\Documents\C#\Taller_2\bin\Debug\net5.0\Taller_2.deps.json
+C:\Users\jdavi\Documents\C#\Taller_2\bin\Debug\net5.0\Taller_2.runtimeconfig.json
+C:\Users\jdavi\Documents\C#\Taller_2\bin\Debug\net5.0\Taller_2.runtimeconfig.dev.json
+C:\Users\jdavi\Documents\C#\Taller_2\bin\Debug\net5.0\Taller_2.dll
+C:\Users\jdavi\Documents\C#\Taller_2\bin\Debug\net5.0\ref\Taller_2.dll
+C:\Users\jdavi\Documents\C#\Taller_2\bin\Debug\net5.0\Taller_2.pdb
+C:\Users\jdavi\Documents\C#\Taller_2\obj\Debug\net5.0\Taller_2.csproj.AssemblyReference.cache
+C:\Users\jdavi\Documents\C#\Taller_2\obj\Debug\net5.0\Taller_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jdavi\Documents\C#\Taller_2\obj\Debug\net5.0\Taller_2.AssemblyInfoInputs.cache
+C:\Users\jdavi\Documents\C#\Taller_2\obj\Debug\net5.0\Taller_2.AssemblyInfo.cs
+C:\Users\jdavi\Documents\C#\Taller_2\obj\Debug\net5.0\Taller_2.csproj.CoreCompileInputs.cache
+C:\Users\jdavi\Documents\C#\Taller_2\obj\Debug\net5.0\Taller_2.dll
+C:\Users\jdavi\Documents\C#\Taller_2\obj\Debug\net5.0\ref\Taller_2.dll
+C:\Users\jdavi\Documents\C#\Taller_2\obj\Debug\net5.0\Taller_2.pdb
+C:\Users\jdavi\Documents\C#\Taller_2\obj\Debug\net5.0\Taller_2.genruntimeconfig.cache
